@@ -92,9 +92,9 @@ This course is designed for freshman in MIT. I strongly recommend you to take it
 
 | Course Link                                                  | My repository                                         | Difficulty |
 | ------------------------------------------------------------ | ----------------------------------------------------- | ---------- |
-| [UCB CS70 : discrete Math and probility theory](http://www.eecs70.org) | [Completed](https://github.com/PKUFlyingPig/UCB-CS70) | 🌟🌟🌟        |
+| [UCB CS70 : discrete Math and probility theory](http://www.eecs70.org) | [not yet]() | 🌟🌟🌟        |
 | [MIT6.431: Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm) |                                                       | 🌟🌟🌟🌟       |
-| [UCB CS126 : Probility theory](https://inst.eecs.berkeley.edu/~ee126/fa20/content.html) | [Ongoing](https://github.com/PKUFlyingPig/EECS126)    | 🌟🌟🌟🌟🌟      |
+| [UCB CS126 : Probility theory](https://inst.eecs.berkeley.edu/~ee126/fa20/content.html) | [not yet]()    | 🌟🌟🌟🌟🌟      |
 
 I took these three courses about probility theory. The UCB CS126 has some really interesting labs where you can write code in python to solve some practical probability problems. I suggest you take the first two to enhance your theoretical basis then take the last one just for fun !
 
@@ -117,7 +117,7 @@ Don't worry, you can use computer to do the math for you. Many MIT maths courses
 | Course Link                                                  | My repository                                        | Difficulty |
 | ------------------------------------------------------------ | ---------------------------------------------------- | ---------- |
 | [MIT18.S191: Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/) | TBA                                                  | 🌟🌟         |
-| [MIT18.330 : Introduction to numerical analysis](https://github.com/mitmath/18330) | [Ongoing](https://github.com/PKUFlyingPig/MIT18.330) | 🌟🌟🌟        |
+| [MIT18.330 : Introduction to numerical analysis](https://github.com/mitmath/18330) | [not yet]() | 🌟🌟🌟        |
 | [MIT18.335 : Introduction to numerical method](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm) | TBA                                                  | 🌟🌟🌟🌟       |
 
 In the first course, you will master julia and do some basic but interesting labs, e.g. image processing, ray tracing, climate simulation and so on !
@@ -135,7 +135,7 @@ If you find 18.330 a little bit easy, you can take the graduate-level course : M
 | [MIT18.650: Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-spring-2015/index.htm) |                                                              | Unknown    |
 | [MIT18.781: Theory of Numbers](https://ocw.mit.edu/courses/mathematics/18-781-theory-of-numbers-spring-2012/index.htm) |                                                              | Unknown    |
 | [MIT6.441: Information Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2016/syllabus/) |                                                              | Unknown    |
-| [Standford EE364A: Convex Optimization](http://stanford.edu/class/ee364a/index.html) | [Completed](https://github.com/PKUFlyingPig/Standford_CVX101) | 🌟🌟🌟🌟       |
+| [Standford EE364A: Convex Optimization](http://stanford.edu/class/ee364a/index.html) | [not yet]() | 🌟🌟🌟🌟       |
 | [Standford CS255: Cryptography](http://crypto.stanford.edu/~dabo/cs255/) |                                                              | Unknown    |
 
 All the courses above are graduate-level and I haven't taken all of them. I may dive into some of them when I need. However, I personally recommend the Convex Optimization course. 
@@ -156,7 +156,7 @@ Just as the course name indicated, this course will teach the missing things in 
 
 | Course Link                                                  | Language            | My repository                                      | Difficulty |
 | ------------------------------------------------------------ | ------------------- | -------------------------------------------------- | ---------- |
-| [UCB CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/su20/) | Python, SQL, Scheme | [Completed](https://github.com/PKUFlyingPig/CS61A) | 🌟🌟🌟        |
+| [UCB CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/su20/) | Python, SQL, Scheme | [not yet]() | 🌟🌟🌟        |
 
 Have you ever heard about the legendary book SICP? but that book used the language "Scheme" which is not so popular today. This course uses Python to teach you the same idea! Isn't that cool ? Trust me, after this course, you will be expert in python!
 
@@ -165,7 +165,7 @@ Have you ever heard about the legendary book SICP? but that book used the langua
 | Course Link                                               | Language       | My repository                                        | Difficulty |
 | --------------------------------------------------------- | -------------- | ---------------------------------------------------- | ---------- |
 | [Havard: cs50](https://cs50.harvard.edu/x/2020/syllabus/) | C, Python, SQL |                                                      | 🌟🌟         |
-| [Havard: cs50 ai](https://cs50.harvard.edu/ai/2020/)      | Python         | [Completed](https://github.com/PKUFlyingPig/cs50_ai) | 🌟🌟🌟        |
+| [Havard: cs50 ai](https://cs50.harvard.edu/ai/2020/)      | Python         | [not yet]() | 🌟🌟🌟        |
 
 CS50 is the most popular courses in Havard University. In the first course you will learn C, Python and SQL. In the second course you will use python to learn some basic concepts about AI ! The most shining part of cs50 is the lab sections. There are many interesting labs that you want to dive into it once you hear about them: Minesweeper, crossword, Nim game, Tic-Tac-Toe and so on.
 
@@ -173,7 +173,7 @@ CS50 is the most popular courses in Havard University. In the first course you w
 
 | Course Link                                               | Language | My repository                                       | Difficulty |
 | --------------------------------------------------------- | -------- | --------------------------------------------------- | ---------- |
-| [Stanford: CS106L](http://web.stanford.edu/class/cs106l/) | C++      | [Completed](https://github.com/PKUFlyingPig/CS106L) | 🌟🌟         |
+| [Stanford: CS106L](http://web.stanford.edu/class/cs106l/) | C++      | [not yet]() | 🌟🌟         |
 
 This is a C++ programming course taught in Stanford University. It covers many modern features of C++ (c++11, c++17, c++20 ...), and will almost certainly help you understand C++ more in depth.
 
@@ -187,7 +187,7 @@ And, it is actually very interesting to learn ~~ if you found it hard, it must b
 
 | Course Link                                                  | Language | My repository                                      | Difficulty                     |
 | ------------------------------------------------------------ | -------- | -------------------------------------------------- | ------------------------------ |
-| [UCB CS61B: data structures and algorithms](https://sp18.datastructur.es) | Java     | [Completed](https://github.com/PKUFlyingPig/CS61B) | 🌟🌟🌟 (not hard, but code heavy) |
+| [UCB CS61B: data structures and algorithms](https://sp18.datastructur.es) | Java     | [not yet]() | 🌟🌟🌟 (not hard, but code heavy) |
 
 In this course you will learn Java and use it to implement many data structures and algorithms. I highly recommend you to take the Spring 2018 version where you can use the Gradescope to self-grade your code. See the course website for more details ! 
 
@@ -197,7 +197,7 @@ Also, this course has some great labs and projects. In labs, you will implement 
 
 | Course Link                                                  | Language | My repository                                                | Difficulty                    |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | ----------------------------- |
-| [Princeton: Algorithms I](https://www.coursera.org/learn/algorithms-part1) & [Princeton: Algorithms II](https://www.coursera.org/learn/algorithms-part2/home/welcome) | Java     | [Completed](https://github.com/PKUFlyingPig/Princeton-Algorithm) | 🌟🌟🌟(not hard, but code heavy) |
+| [Princeton: Algorithms I](https://www.coursera.org/learn/algorithms-part1) & [Princeton: Algorithms II](https://www.coursera.org/learn/algorithms-part2/home/welcome) | Java     | [not yet]() | 🌟🌟🌟(not hard, but code heavy) |
 
 These two courses are the greatest algorithm courses I found in coursera.
 
@@ -219,7 +219,7 @@ Now the last and also the most exciting part —— use it to solve real problem
 
 | Course Link                                                  | Language | My repository                                          | Difficulty |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---------- |
-| [UCB CS170: Efficient Algorithms and Intractable Problems](https://cs170.org) | Latex    | [Completed](https://github.com/PKUFlyingPig/UCB-CS170) | 🌟🌟🌟🌟       |
+| [UCB CS170: Efficient Algorithms and Intractable Problems](https://cs170.org) | Latex    | [not yet]() | 🌟🌟🌟🌟       |
 
 In this course you will learn more advanced algorithms like divide-and-conquer, dynamic programming, Network Flow, Graph algorithms Linear Programming and some NP problems.
 
@@ -233,7 +233,7 @@ As a CS student, it does not harm to learn some EE lessons to deepen your unders
 
 | Course Link                                                  | Language | My repository                                      | Difficulty |
 | ------------------------------------------------------------ | -------- | -------------------------------------------------- | ---------- |
-| [UCB: EE16A](https://inst.eecs.berkeley.edu/~ee16a/su20/#schedule) | Python   | [Completed](https://github.com/PKUFlyingPig/EE16A) | 🌟🌟         |
+| [UCB: EE16A](https://inst.eecs.berkeley.edu/~ee16a/su20/#schedule) | Python   | [not yet]() | 🌟🌟         |
 | [UCB: EE16B](https://www.eecs16b.org/#schedule)              | Python   | TBA                                                | 🌟🌟🌟        |
 
 These two lessons are the introductary courses for freshman in UC Berkeley majored in EE. You can learn the basic ideas about circuits and some data analysis methods. You can also make your hands dirty in its labs.
@@ -243,7 +243,7 @@ These two lessons are the introductary courses for freshman in UC Berkeley major
 | Course Link                                                  | Language | My repository                                          | Difficulty |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---------- |
 | [MIT 6.003 : signal and systems](https://www.eecs16b.org/#schedule) | ------   | -----                                                  | 🌟🌟🌟        |
-| [UCB EE120 : signal and systems](https://inst.eecs.berkeley.edu/~ee120/fa19/) | Python   | [Completed](https://github.com/PKUFlyingPig/UCB-EE120) | 🌟🌟🌟        |
+| [UCB EE120 : signal and systems](https://inst.eecs.berkeley.edu/~ee120/fa19/) | Python   | [not yet]() | 🌟🌟🌟        |
 
 Signal and Systems is a very important course which will change your views of the world ! MIT 6.003 provides all the lecture videos and homework with solutions. UCB EE120 has some great course notes which I think are written in a very clear and easy to understand way. Personally I think the notes about Fourier transform are quite clear and great. So my recommended learning map is as follows :
 
@@ -260,7 +260,7 @@ Now it's the most exciting part. When I was a little boy, people always told me 
 
 | Course Link                                                  | Language                           | My repository                                             | Difficulty |
 | ------------------------------------------------------------ | ---------------------------------- | --------------------------------------------------------- | ---------- |
-| [Nand2Tetris I](https://www.coursera.org/learn/build-a-computer/home/week/1) & [Nand2Tetrix II](https://www.coursera.org/learn/nand2tetris2/home/welcome) | choose as you like, I chose Python | [Completed](https://github.com/PKUFlyingPig/NandToTetris) | 🌟🌟🌟        |
+| [Nand2Tetris I](https://www.coursera.org/learn/build-a-computer/home/week/1) & [Nand2Tetrix II](https://www.coursera.org/learn/nand2tetris2/home/welcome) | choose as you like, I chose Python | [not yet]() | 🌟🌟🌟        |
 
 This course got 5.0 full score on coursera ! It is divided into two part : hardware part and software part.
 
@@ -272,7 +272,7 @@ Software part : The author created a new language called Jack. You will write th
 
 | Course Link                                                  | Language          | My repository                                               | Difficulty |
 | ------------------------------------------------------------ | ----------------- | ----------------------------------------------------------- | ---------- |
-| [UCB CS61C: Great Ideas in Computer Architecture](https://cs61c.org/su20/) | C, RISC-V, Logism | [Completed](https://github.com/PKUFlyingPig/CS61C-summer20) | 🌟🌟🌟🌟       |
+| [UCB CS61C: Great Ideas in Computer Architecture](https://cs61c.org/su20/) | C, RISC-V, Logism | [not yet]() | 🌟🌟🌟🌟       |
 
 Although Nand2Tetris course is great, it is not a university-level course. So to step further, CS61C is your choice.
 
@@ -332,7 +332,7 @@ This course is taught by Andrew Ng (吴恩达). This couse is maths heavy. If yo
 
 | Course Link                                                  | Language | Repository                                          | Difficulty |
 | ------------------------------------------------------------ | -------- | --------------------------------------------------- | ---------- |
-| [Stanford CS110L](https://reberhardt.com/cs110l/spring-2020/) | Rust     | [Completed](https://github.com/PKUFlyingPig/CS110L) | 🌟🌟🌟🌟       |
+| [Stanford CS110L](https://reberhardt.com/cs110l/spring-2020/) | Rust     | [not yet]() | 🌟🌟🌟🌟       |
 
 In this course, you will learn [Rust](https://www.rust-lang.org/), a magic language with C's speed and other high level language's safety. It aims at empowering everyone to write efficient and safe software.
 
@@ -344,7 +344,7 @@ Personally, I love the "futures in Rust" part best. Future is a very weird conce
 
 | Course Link                                                  | Language | Repository                                                   | Difficulty |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | ---------- |
-| [MIT 6.S081: Operating System](https://github.com/PKUFlyingPig/MIT6.S081-2020fall) | C        | [Completed](https://github.com/PKUFlyingPig/MIT6.S081-2020fall) | 🌟🌟🌟🌟🌟      |
+| [MIT 6.S081: Operating System](https://github.com/PKUFlyingPig/MIT6.S081-2020fall) | C        | [not yet]() | 🌟🌟🌟🌟🌟      |
 
 This course is lab-driven, you will implement many features of a real operating system based on xv6 (a toy operating system which is designed for teaching). After finishing 11 labs, I'm sure you will have a deep understanding of the operating system.
 
@@ -354,7 +354,7 @@ This course is lab-driven, you will implement many features of a real operating 
 
 | Course Link                                                  | Language | Repository                                          | Difficulty |
 | ------------------------------------------------------------ | -------- | --------------------------------------------------- | ---------- |
-| [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html) | Go       | [Ongoing](https://github.com/PKUFlyingPig/MIT6.824) | 🌟🌟🌟🌟🌟🌟     |
+| [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html) | Go       | [Ongoing]() | 🌟🌟🌟🌟🌟🌟     |
 
 One paper per class!!  Wonderful labs !! You will implement a working Raft protocal and write your KV storing service based on it.
 
@@ -366,8 +366,8 @@ This course is graduate-level and very hard. I am trying to find some time to fi
 
 | Course Link                                                  | Language | Repository                                                   | Difficulty |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | ---------- |
-| [Computer Networking: A top down approach](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm) | Python   | [Completed](https://github.com/PKUFlyingPig/Computer-Network-A-Top-Down-Approach) | 🌟🌟🌟        |
-| [stanford CS144: Introduction to computer network](https://cs144.github.io) | C++      | [Completed](https://github.com/PKUFlyingPig/CS144-Computer-Network) | 🌟🌟🌟🌟🌟      |
+| [Computer Networking: A top down approach](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm) | Python   | [not yet]() | 🌟🌟🌟        |
+| [stanford CS144: Introduction to computer network](https://cs144.github.io) | C++      | [not yet]() | 🌟🌟🌟🌟🌟      |
 
 In the fall 2020, the authors of this wonderful book (A Top Down Approach) released his teaching videos online which you can use to supplement your learning. In its labs, you will use wireshark to catch real network packet to understand how each protocol works. 
 
@@ -383,7 +383,7 @@ Here is the picture of what you will implement in CS144 labs :
 
 | Course Link                                                  | Programming Language | My repository                                                | Difficulty |
 | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ---------- |
-| [Stanford CS143: Compilers](http://web.stanford.edu/class/cs143/) | Java or C            | [Ongoing](https://github.com/skyzluo/CS143-Compilers-Stanford) | 🌟🌟🌟🌟🌟      |
+| [Stanford CS143: Compilers](http://web.stanford.edu/class/cs143/) | Java or C            | [not yet]() | 🌟🌟🌟🌟🌟      |
 
 I am taking Compiler course at school this term. Hope I can have time to complete this legendary course.
 
@@ -393,7 +393,7 @@ I am taking Compiler course at school this term. Hope I can have time to complet
 
 | Course Link                                       | Programming Language | My repository                                          | Difficulty |
 | ------------------------------------------------- | -------------------- | ------------------------------------------------------ | ---------- |
-| [UCB CS161: Computer Security](https://cs161.org) | Python, Go, C        | [Completed](https://github.com/PKUFlyingPig/UCB-CS161) | 🌟🌟🌟🌟🌟      |
+| [UCB CS161: Computer Security](https://cs161.org) | Python, Go, C        | [not yet]()| 🌟🌟🌟🌟🌟      |
 
 This course is divided into 5 sections:
 
@@ -420,7 +420,7 @@ The shining part of the course is the labs and projects, which will greatly enha
 
 | Course Link                                                  | Programming Language | My repository                                                | Difficulty |
 | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ---------- |
-| [Stanford CS149 : Parallel Computing](http://cs149.stanford.edu/fall20/) | C/C++                | [Completed](https://github.com/PKUFlyingPig/CS149-parallel-computing) | 🌟🌟🌟🌟🌟      |
+| [Stanford CS149 : Parallel Computing](http://cs149.stanford.edu/fall20/) | C/C++                |  | 🌟🌟🌟🌟🌟      |
 
 From smart phones, to multi-core CPUs and GPUs, to the world's largest supercomputers and web sites, parallel processing is ubiquitous in modern computing. The goal of this course is to provide a deep understanding of the fundamental principles and engineering trade-offs involved in designing modern parallel computing systems as well as to teach parallel programming techniques necessary to effectively utilize these machines. Because writing good parallel programs requires an understanding of key machine performance characteristics, this course will cover both parallel hardware and software design.
 
@@ -432,7 +432,7 @@ There are five programming assignments in the course. You will learn to analyze 
 
 | Course Link                                                  | Programming Language | My repository                                      | Difficulty |
 | ------------------------------------------------------------ | -------------------- | -------------------------------------------------- | ---------- |
-| [UCB CS186: Introduction to Database System](https://cs186berkeley.net/sp21/) | Java/SQL/MQL         | [Completed](https://github.com/PKUFlyingPig/CS186) | 🌟🌟🌟🌟🌟      |
+| [UCB CS186: Introduction to Database System](https://cs186berkeley.net/sp21/) | Java/SQL/MQL         | [not yet]() | 🌟🌟🌟🌟🌟      |
 
 How to write SQL queries? What happens after you type in the queries into the SQL command line tool? How to optimize the query? How to design your own database to fit your demand? How to run tons of queries concurrently? How to recover your database from a ... fire? How to parallel your queries? What is NoSQL and how to write quries in the NoSQL database Mongodb? What is MapReduce and Spark? If you are interested in any questions above or if you want to implement a relational database **yourself**, this course is your best choice! Wonderful learning materials and wonderful projects, no need to say more.
 
@@ -444,7 +444,7 @@ All the programmers can write code, but how to write good code, how to write hun
 
 | Course Link                                                  | Programming Language | My repository                                                | Difficulty |
 | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ---------- |
-| [MIT 6.031 : Software Construction](http://web.mit.edu/6.031/www/sp20/) | Java                 | [Ongoing](https://github.com/PKUFlyingPig/MIT6.031-software-construction) | 🌟🌟🌟        |
+| [MIT 6.031 : Software Construction](http://web.mit.edu/6.031/www/sp20/) | Java                 | [not yet]() | 🌟🌟🌟        |
 
 The primary goal in this course is learning how to produce software that is:
 
@@ -458,7 +458,7 @@ To achieve the goal, you will learn Java, learn how to write specifications, how
 
 | Course Link                                                  | Programming Language | My repository                                                | Difficulty |
 | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ---------- |
-| [UCB CS169 : software engineering](http://www.saasbook.info/courses) | Ruby/Javascript      | [Ongoing](https://github.com/PKUFlyingPig/CS169-Software-Engineering) | 🌟🌟🌟🌟       |
+| [UCB CS169 : software engineering](http://www.saasbook.info/courses) | Ruby/Javascript      | [not yet]() | 🌟🌟🌟🌟       |
 
 Unlike other traditional software engineering course which teaches you the old "plan and document" method, Software as a Service (SaaS) and agile development is today's trend. This great course will guide you into the world of modern software engineering, which is widely used by almost all the big companies like Google, Amazon ... ...
 
